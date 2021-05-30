@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FastWXCallBackend</name>
+    </assembly>
+    <members>
+        <member name="M:FastWXCallBackend.Controllers.FastWxCallController.Regist(System.String,System.String)">
+            <summary>
+            注册
+            </summary>
+            <param name="userName">用户名</param>
+            <param name="password">密码</param>
+            <returns></returns>
+        </member>
+        <member name="M:FastWXCallBackend.Controllers.FastWxCallController.Test">
+            <summary>
+            测试程序是否正常工作
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FastWXCallBackend.Controllers.FastWxCallController.TestLog">
+            <summary>
+            测试日志是否正常记录
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FastWXCallBackend.Controllers.FastWxCallController.TestError">
+            <summary>
+            测试异常能否处理
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
